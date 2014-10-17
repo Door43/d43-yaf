@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yaf:home|Door43 (yaf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yaf|d43-yaf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yaf/archive/master.zip|d43-yaf.zip]]
+
+**Recent Changes**
+{{changes>ns = yaf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yaf|Ethnologue data]]
+
